@@ -9,3 +9,14 @@
 /Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/obj/Debug/netcoreapp2.0/Solid.OpenClosed.AssemblyInfo.cs
 /Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/obj/Debug/netcoreapp2.0/Solid.OpenClosed.dll
 /Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/obj/Debug/netcoreapp2.0/Solid.OpenClosed.pdb
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.OpenClosed\bin\Debug\netcoreapp2.0\Solid.OpenClosed.deps.json
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.OpenClosed\bin\Debug\netcoreapp2.0\Solid.OpenClosed.runtimeconfig.json
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.OpenClosed\bin\Debug\netcoreapp2.0\Solid.OpenClosed.runtimeconfig.dev.json
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.OpenClosed\bin\Debug\netcoreapp2.0\Solid.OpenClosed.dll
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.OpenClosed\bin\Debug\netcoreapp2.0\Solid.OpenClosed.pdb
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.OpenClosed\obj\Debug\netcoreapp2.0\Solid.OpenClosed.csprojResolveAssemblyReference.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.OpenClosed\obj\Debug\netcoreapp2.0\Solid.OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.OpenClosed\obj\Debug\netcoreapp2.0\Solid.OpenClosed.AssemblyInfoInputs.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.OpenClosed\obj\Debug\netcoreapp2.0\Solid.OpenClosed.AssemblyInfo.cs
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.OpenClosed\obj\Debug\netcoreapp2.0\Solid.OpenClosed.dll
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.OpenClosed\obj\Debug\netcoreapp2.0\Solid.OpenClosed.pdb
