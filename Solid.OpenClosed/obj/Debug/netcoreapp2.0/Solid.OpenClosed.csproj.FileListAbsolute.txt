@@ -1,0 +1,11 @@
+/Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/bin/Debug/netcoreapp2.0/Solid.OpenClosed.deps.json
+/Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/bin/Debug/netcoreapp2.0/Solid.OpenClosed.runtimeconfig.json
+/Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/bin/Debug/netcoreapp2.0/Solid.OpenClosed.runtimeconfig.dev.json
+/Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/bin/Debug/netcoreapp2.0/Solid.OpenClosed.dll
+/Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/bin/Debug/netcoreapp2.0/Solid.OpenClosed.pdb
+/Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/obj/Debug/netcoreapp2.0/Solid.OpenClosed.csprojResolveAssemblyReference.cache
+/Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/obj/Debug/netcoreapp2.0/Solid.OpenClosed.csproj.CoreCompileInputs.cache
+/Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/obj/Debug/netcoreapp2.0/Solid.OpenClosed.AssemblyInfoInputs.cache
+/Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/obj/Debug/netcoreapp2.0/Solid.OpenClosed.AssemblyInfo.cs
+/Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/obj/Debug/netcoreapp2.0/Solid.OpenClosed.dll
+/Users/przemekk/Projects/DesignPatterns/Solid.OpenClosed/obj/Debug/netcoreapp2.0/Solid.OpenClosed.pdb
