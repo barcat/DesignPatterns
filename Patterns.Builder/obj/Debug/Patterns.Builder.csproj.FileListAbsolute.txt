@@ -1,0 +1,7 @@
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder\obj\Debug\Patterns.Builder.csprojResolveAssemblyReference.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder\obj\Debug\Patterns.Builder.csproj.CoreCompileInputs.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder\bin\Debug\Patterns.Builder.exe.config
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder\bin\Debug\Patterns.Builder.exe
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder\bin\Debug\Patterns.Builder.pdb
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder\obj\Debug\Patterns.Builder.exe
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder\obj\Debug\Patterns.Builder.pdb
