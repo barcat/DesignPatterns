@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Patterns.Builder
 {
@@ -20,7 +18,7 @@ namespace Patterns.Builder
 
             if (ValuesToBeSet.Count > 0)
             {
-                // todo: add numeric value
+                // TODO: add numeric value
                 var ValuesToBeSetStrig = ValuesToBeSet
                     .Select(x => $"{x.Item1} = '{x.Item2}'")
                     .Aggregate((i, j) => $"{i}, {j}");
@@ -50,14 +48,17 @@ namespace Patterns.Builder
             _sqlUpdate.TableName = tableName;
         }
 
-        public void AddValueToBeSet(string columName, string newValue)
+        // fluent interfce builder
+        public SqlUpdateBuilder AddValueToBeSet(string columName, string newValue)
         {
             _sqlUpdate.ValuesToBeSet.Add((columName, newValue));
+            return this;
         }
 
-        public void AddCondition(string columnName, string conditionValue)
+        public SqlUpdateBuilder AddCondition(string columnName, string conditionValue)
         {
             _sqlUpdate.Conditions.Add((columnName, conditionValue));
+            return this;
         }
 
         public override string ToString()

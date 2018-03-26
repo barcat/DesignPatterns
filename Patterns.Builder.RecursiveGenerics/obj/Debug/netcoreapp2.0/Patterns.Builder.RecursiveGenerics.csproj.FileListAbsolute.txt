@@ -1,0 +1,10 @@
+/Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/bin/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.deps.json
+/Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/bin/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.runtimeconfig.json
+/Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/bin/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.runtimeconfig.dev.json
+/Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/bin/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.dll
+/Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/bin/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.pdb
+/Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/obj/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.csproj.CoreCompileInputs.cache
+/Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/obj/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.AssemblyInfoInputs.cache
+/Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/obj/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.AssemblyInfo.cs
+/Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/obj/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.dll
+/Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/obj/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.pdb

@@ -78,12 +78,14 @@ namespace Patterns.Builder
             //Console.ReadKey();
             var sqlUpdateBuilder = new SqlUpdateBuilder("dbo.Persons");
 
-            sqlUpdateBuilder.AddValueToBeSet("name", "Ann");
-            sqlUpdateBuilder.AddValueToBeSet("sureName", "Ann");
-            sqlUpdateBuilder.AddValueToBeSet("age", "29");
+            sqlUpdateBuilder
+                   .AddValueToBeSet("name", "Ann")
+                   .AddValueToBeSet("sureName", "Ann")
+                   .AddValueToBeSet("age", "29");
 
-            sqlUpdateBuilder.AddCondition("country", "Poland");
-            sqlUpdateBuilder.AddCondition("email", "ann@test.pl");
+            sqlUpdateBuilder
+                .AddCondition("country", "Poland")
+                .AddCondition("email", "ann@test.pl");
 
             Console.WriteLine(sqlUpdateBuilder.ToString());
             Console.ReadKey();
