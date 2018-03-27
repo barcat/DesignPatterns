@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Builder", "Pattern
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Builder.RecursiveGenerics", "Patterns.Builder.RecursiveGenerics\Patterns.Builder.RecursiveGenerics.csproj", "{E3A77597-72B5-4E9C-98AB-8877A4ED4CB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder.Faceted", "Builder.Faceted\Builder.Faceted.csproj", "{2D25DFAE-C24F-46CE-853E-B65E97288086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory.FactoryMethod", "Factory.FactoryMethod\Factory.FactoryMethod.csproj", "{C60DE990-E72B-47DF-A3AC-0E71847EB09C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +36,14 @@ Global
 		{E3A77597-72B5-4E9C-98AB-8877A4ED4CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3A77597-72B5-4E9C-98AB-8877A4ED4CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3A77597-72B5-4E9C-98AB-8877A4ED4CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D25DFAE-C24F-46CE-853E-B65E97288086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D25DFAE-C24F-46CE-853E-B65E97288086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D25DFAE-C24F-46CE-853E-B65E97288086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D25DFAE-C24F-46CE-853E-B65E97288086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60DE990-E72B-47DF-A3AC-0E71847EB09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60DE990-E72B-47DF-A3AC-0E71847EB09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60DE990-E72B-47DF-A3AC-0E71847EB09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60DE990-E72B-47DF-A3AC-0E71847EB09C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

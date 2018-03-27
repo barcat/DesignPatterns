@@ -12,7 +12,7 @@ namespace Patterns.Builder.RecursiveGenerics
             return $"{nameof(Name)}: {Name}, {nameof(Position)}: {Position}";
         }
 
-        public class Builder : PersonalJobBuilder<Builder> 
+        public class Builder : PersonJobBuilder<Builder> 
         {
             
         }
@@ -39,8 +39,8 @@ namespace Patterns.Builder.RecursiveGenerics
         }
     }
 
-    public class PersonalJobBuilder<SELF> : PersonInfoBuilder<PersonalJobBuilder<SELF>> 
-        where SELF :PersonalJobBuilder<SELF> 
+    public class PersonJobBuilder<SELF> : PersonInfoBuilder<PersonJobBuilder<SELF>> 
+        where SELF :PersonJobBuilder<SELF> 
     {
         public SELF WorkAsA(string position)
         {   
@@ -53,7 +53,7 @@ namespace Patterns.Builder.RecursiveGenerics
     {
         static void Main(string[] args)
         {
-           var p =  Person.New
+           var p = Person.New
                   .Called("Prze")
                   .WorkAsA("SBT")
                   .Build();

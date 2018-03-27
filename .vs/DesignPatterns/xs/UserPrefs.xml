@@ -1,9 +1,10 @@
-﻿<Properties StartupConfiguration="{5DF4B312-0718-4F0F-AC9B-3E74398CFA44}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Patterns.Builder.RecursiveGenerics/Program.cs">
+﻿<Properties StartupConfiguration="{2D25DFAE-C24F-46CE-853E-B65E97288086}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Builder.Faceted/Program.cs">
     <Files>
       <File FileName="Solid.OpenClosed/Program.cs" Line="45" Column="5" />
       <File FileName="Patterns.Builder/SqlUpdateBuilder.cs" Line="51" Column="12" />
-      <File FileName="Patterns.Builder.RecursiveGenerics/Program.cs" Line="5" Column="15" />
+      <File FileName="Patterns.Builder.RecursiveGenerics/Program.cs" Line="54" Column="40" />
+      <File FileName="Builder.Faceted/Program.cs" Line="36" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -11,7 +12,9 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Patterns.Builder.RecursiveGenerics FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Patterns.Builder.RecursiveGenerics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Builder.Faceted PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Factory.FactoryMethod FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Patterns.Builder PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Solid.OpenClosed PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />

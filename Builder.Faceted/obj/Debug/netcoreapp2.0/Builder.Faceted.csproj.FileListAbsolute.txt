@@ -1,0 +1,10 @@
+/Users/przemekk/Projects/DesignPatterns/Builder.Faceted/bin/Debug/netcoreapp2.0/Builder.Faceted.deps.json
+/Users/przemekk/Projects/DesignPatterns/Builder.Faceted/bin/Debug/netcoreapp2.0/Builder.Faceted.runtimeconfig.json
+/Users/przemekk/Projects/DesignPatterns/Builder.Faceted/bin/Debug/netcoreapp2.0/Builder.Faceted.runtimeconfig.dev.json
+/Users/przemekk/Projects/DesignPatterns/Builder.Faceted/bin/Debug/netcoreapp2.0/Builder.Faceted.dll
+/Users/przemekk/Projects/DesignPatterns/Builder.Faceted/bin/Debug/netcoreapp2.0/Builder.Faceted.pdb
+/Users/przemekk/Projects/DesignPatterns/Builder.Faceted/obj/Debug/netcoreapp2.0/Builder.Faceted.csproj.CoreCompileInputs.cache
+/Users/przemekk/Projects/DesignPatterns/Builder.Faceted/obj/Debug/netcoreapp2.0/Builder.Faceted.AssemblyInfoInputs.cache
+/Users/przemekk/Projects/DesignPatterns/Builder.Faceted/obj/Debug/netcoreapp2.0/Builder.Faceted.AssemblyInfo.cs
+/Users/przemekk/Projects/DesignPatterns/Builder.Faceted/obj/Debug/netcoreapp2.0/Builder.Faceted.dll
+/Users/przemekk/Projects/DesignPatterns/Builder.Faceted/obj/Debug/netcoreapp2.0/Builder.Faceted.pdb
