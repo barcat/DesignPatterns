@@ -1,0 +1,2 @@
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.DependencyInversionPriciple\obj\Debug\Solid.DependencyInversionPriciple.csprojResolveAssemblyReference.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Solid.DependencyInversionPriciple\obj\Debug\Solid.DependencyInversionPriciple.csproj.CoreCompileInputs.cache

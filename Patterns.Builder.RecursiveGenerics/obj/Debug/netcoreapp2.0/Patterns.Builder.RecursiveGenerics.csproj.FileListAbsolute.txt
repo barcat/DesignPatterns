@@ -8,3 +8,14 @@
 /Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/obj/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.AssemblyInfo.cs
 /Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/obj/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.dll
 /Users/przemekk/Projects/DesignPatterns/Patterns.Builder.RecursiveGenerics/obj/Debug/netcoreapp2.0/Patterns.Builder.RecursiveGenerics.pdb
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder.RecursiveGenerics\bin\Debug\netcoreapp2.0\Patterns.Builder.RecursiveGenerics.deps.json
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder.RecursiveGenerics\bin\Debug\netcoreapp2.0\Patterns.Builder.RecursiveGenerics.runtimeconfig.json
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder.RecursiveGenerics\bin\Debug\netcoreapp2.0\Patterns.Builder.RecursiveGenerics.runtimeconfig.dev.json
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder.RecursiveGenerics\bin\Debug\netcoreapp2.0\Patterns.Builder.RecursiveGenerics.dll
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder.RecursiveGenerics\bin\Debug\netcoreapp2.0\Patterns.Builder.RecursiveGenerics.pdb
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder.RecursiveGenerics\obj\Debug\netcoreapp2.0\Patterns.Builder.RecursiveGenerics.csprojResolveAssemblyReference.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder.RecursiveGenerics\obj\Debug\netcoreapp2.0\Patterns.Builder.RecursiveGenerics.csproj.CoreCompileInputs.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder.RecursiveGenerics\obj\Debug\netcoreapp2.0\Patterns.Builder.RecursiveGenerics.AssemblyInfoInputs.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder.RecursiveGenerics\obj\Debug\netcoreapp2.0\Patterns.Builder.RecursiveGenerics.AssemblyInfo.cs
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder.RecursiveGenerics\obj\Debug\netcoreapp2.0\Patterns.Builder.RecursiveGenerics.dll
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Patterns.Builder.RecursiveGenerics\obj\Debug\netcoreapp2.0\Patterns.Builder.RecursiveGenerics.pdb

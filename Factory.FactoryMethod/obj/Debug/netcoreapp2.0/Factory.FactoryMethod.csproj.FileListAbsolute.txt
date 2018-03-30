@@ -1,0 +1,11 @@
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.FactoryMethod\bin\Debug\netcoreapp2.0\Factory.FactoryMethod.deps.json
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.FactoryMethod\bin\Debug\netcoreapp2.0\Factory.FactoryMethod.runtimeconfig.json
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.FactoryMethod\bin\Debug\netcoreapp2.0\Factory.FactoryMethod.runtimeconfig.dev.json
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.FactoryMethod\bin\Debug\netcoreapp2.0\Factory.FactoryMethod.dll
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.FactoryMethod\bin\Debug\netcoreapp2.0\Factory.FactoryMethod.pdb
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.FactoryMethod\obj\Debug\netcoreapp2.0\Factory.FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.FactoryMethod\obj\Debug\netcoreapp2.0\Factory.FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.FactoryMethod\obj\Debug\netcoreapp2.0\Factory.FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.FactoryMethod\obj\Debug\netcoreapp2.0\Factory.FactoryMethod.AssemblyInfo.cs
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.FactoryMethod\obj\Debug\netcoreapp2.0\Factory.FactoryMethod.dll
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.FactoryMethod\obj\Debug\netcoreapp2.0\Factory.FactoryMethod.pdb

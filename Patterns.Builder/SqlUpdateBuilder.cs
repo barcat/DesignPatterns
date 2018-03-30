@@ -48,7 +48,7 @@ namespace Patterns.Builder
             _sqlUpdate.TableName = tableName;
         }
 
-        // fluent interfce builder
+        // fluent interface builder
         public SqlUpdateBuilder AddValueToBeSet(string columName, string newValue)
         {
             _sqlUpdate.ValuesToBeSet.Add((columName, newValue));

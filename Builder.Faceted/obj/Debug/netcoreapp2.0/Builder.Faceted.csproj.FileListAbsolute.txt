@@ -8,3 +8,14 @@
 /Users/przemekk/Projects/DesignPatterns/Builder.Faceted/obj/Debug/netcoreapp2.0/Builder.Faceted.AssemblyInfo.cs
 /Users/przemekk/Projects/DesignPatterns/Builder.Faceted/obj/Debug/netcoreapp2.0/Builder.Faceted.dll
 /Users/przemekk/Projects/DesignPatterns/Builder.Faceted/obj/Debug/netcoreapp2.0/Builder.Faceted.pdb
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Builder.Faceted\bin\Debug\netcoreapp2.0\Builder.Faceted.deps.json
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Builder.Faceted\bin\Debug\netcoreapp2.0\Builder.Faceted.runtimeconfig.json
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Builder.Faceted\bin\Debug\netcoreapp2.0\Builder.Faceted.runtimeconfig.dev.json
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Builder.Faceted\bin\Debug\netcoreapp2.0\Builder.Faceted.dll
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Builder.Faceted\bin\Debug\netcoreapp2.0\Builder.Faceted.pdb
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Builder.Faceted\obj\Debug\netcoreapp2.0\Builder.Faceted.csprojResolveAssemblyReference.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Builder.Faceted\obj\Debug\netcoreapp2.0\Builder.Faceted.csproj.CoreCompileInputs.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Builder.Faceted\obj\Debug\netcoreapp2.0\Builder.Faceted.AssemblyInfoInputs.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Builder.Faceted\obj\Debug\netcoreapp2.0\Builder.Faceted.AssemblyInfo.cs
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Builder.Faceted\obj\Debug\netcoreapp2.0\Builder.Faceted.dll
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Builder.Faceted\obj\Debug\netcoreapp2.0\Builder.Faceted.pdb

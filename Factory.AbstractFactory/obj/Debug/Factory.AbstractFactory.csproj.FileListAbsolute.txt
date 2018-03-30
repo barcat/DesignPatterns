@@ -1,0 +1,6 @@
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.AbstractFactory\bin\Debug\Factory.AbstractFactory.exe.config
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.AbstractFactory\bin\Debug\Factory.AbstractFactory.exe
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.AbstractFactory\bin\Debug\Factory.AbstractFactory.pdb
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.AbstractFactory\obj\Debug\Factory.AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.AbstractFactory\obj\Debug\Factory.AbstractFactory.exe
+C:\Users\ext_przemyslaw.kocie\Documents\GitHub\DesignPatterns\Factory.AbstractFactory\obj\Debug\Factory.AbstractFactory.pdb
